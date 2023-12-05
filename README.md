@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madhavikanidiboyina
+- 👋 Hi, I’m @madhavikandiboyina
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on full stack
